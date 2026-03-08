@@ -1,0 +1,7 @@
+2026-02-03 22:17:42 INFO  ats.utilities.LoggerUtil - Bowser launched and URL opened
+2026-02-03 22:17:44 INFO  ats.utilities.LoggerUtil - Login Completed...
+2026-02-03 22:17:48 INFO  ats.utilities.LoggerUtil - Added Product: Benefit Bella Bamba
+2026-02-03 22:17:49 INFO  ats.utilities.LoggerUtil - Added Product: Skinsheen Bronzer Stick
+2026-02-03 22:17:49 INFO  ats.utilities.LoggerUtil - Added Product: Flash Bronzer Body Gel
+2026-02-03 22:17:54 INFO  ats.utilities.LoggerUtil - Order placed
+2026-02-03 22:17:59 INFO  ats.utilities.LoggerUtil - Browser closed

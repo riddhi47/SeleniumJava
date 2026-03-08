@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+
+ <listeners>
+        <listener class-name="ats.Listeners.TestListener"/>
+        <listener class-name="ats.Listeners.Log4jSetupListener"/>
+ </listeners>
+
+  <test name="Test">
+    <classes>
+      <class name="ats.TestCases.ATS_EndToEndTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
